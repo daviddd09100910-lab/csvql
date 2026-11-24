@@ -233,7 +233,7 @@ csvql::render_bar_chart(ranked, "service", "delta_ms", std::cout);
 | Member | GitHub Account | Owned Modules & Deliverables |
 | :--- | :--- | :--- |
 | **Member A** | `<daviddd09100910-lab>` | `include/csvql/table.hpp`, `include/csvql/csv_parser.hpp`, `include/csvql/query_engine.hpp`, `tests/test_parser_and_query.cpp`, `docs/API.md` (SQL Engine sections) |
-| **Member B** | `<Kwunmlai-lab>` | `include/csvql/visualizer.hpp`, `include/csvql/csvql.hpp`, `data/stocks.csv`, `data/sales.csv`, `examples/basic_usage.cpp`, `examples/demo_cli.cpp`, `tests/test_visualizer.cpp`, `CMakeLists.txt`, `.github/workflows/ci.yml`, `README.md` |
+| **Member B** | `<Kwunmlai>` | `include/csvql/visualizer.hpp`, `include/csvql/csvql.hpp`, `data/stocks.csv`, `data/sales.csv`, `examples/basic_usage.cpp`, `examples/demo_cli.cpp`, `tests/test_visualizer.cpp`, `CMakeLists.txt`, `.github/workflows/ci.yml`, `README.md` |
 
 ---
 
